@@ -110,4 +110,6 @@ Adding machine learning for intent classification
 Enhancing dialogue flow and memory for multi-turn conversations
 
 Creating a GUI-based chatbot or deploying it on a web app
+# output
+![Image](https://github.com/user-attachments/assets/c2c184a5-eea7-4fc5-a84a-5e01ab0a3ba0)
 
